@@ -3,7 +3,7 @@ package hello_world;
 public class SaysHello {
 
 	public static void main(String[] args) {
-		int ten = 10;
+		System.out.println("hello world");
 	}
 
 }
